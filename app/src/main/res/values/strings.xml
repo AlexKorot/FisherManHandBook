@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FisherManHandBook</string>
+    <string name="fish">Fish</string>
+    <string name="bait">Bait</string>
+    <string name="tackle">Tackle</string>
+    <string name="History">history</string>
+    <string name="menu_title">FisherManHandBook</string>
+    <string name="menu">Menu</string>
+    <string name="exit">Exit</string>
+
+
+
+</resources>

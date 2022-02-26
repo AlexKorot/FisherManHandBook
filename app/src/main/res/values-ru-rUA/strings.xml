@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Справочник рыбака</string>
+    <string name="fish">Рыба</string>
+    <string name="bait">Наживка</string>
+    <string name="tackle">Снасть</string>
+    <string name="History">Истории</string>
+    <string name="menu_title">Справочник рыбака</string>
+    <string name="start" translatable="false">Старт</string>
+    <string name="menu">Меню</string>
+    <string name="exit">Выход</string>
+</resources>
